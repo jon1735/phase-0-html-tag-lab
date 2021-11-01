@@ -30,7 +30,7 @@ PLATFORMS
 DEPENDENCIES
   nokogiri
   pry
-  rspec (= 3.6)
+  rspec (= 3.6.0)
 
 BUNDLED WITH
-   2.0.1
+   2.2.27
